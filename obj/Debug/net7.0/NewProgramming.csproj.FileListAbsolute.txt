@@ -1,0 +1,14 @@
+c:\Users\Home\Desktop\NewProgramming\bin\Debug\net7.0\NewProgramming.exe
+c:\Users\Home\Desktop\NewProgramming\bin\Debug\net7.0\NewProgramming.deps.json
+c:\Users\Home\Desktop\NewProgramming\bin\Debug\net7.0\NewProgramming.runtimeconfig.json
+c:\Users\Home\Desktop\NewProgramming\bin\Debug\net7.0\NewProgramming.dll
+c:\Users\Home\Desktop\NewProgramming\bin\Debug\net7.0\NewProgramming.pdb
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.AssemblyInfoInputs.cache
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.AssemblyInfo.cs
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.csproj.CoreCompileInputs.cache
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.dll
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\refint\NewProgramming.dll
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.pdb
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\NewProgramming.genruntimeconfig.cache
+c:\Users\Home\Desktop\NewProgramming\obj\Debug\net7.0\ref\NewProgramming.dll
